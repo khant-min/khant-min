@@ -20,7 +20,7 @@
 <a href="https://www.facebook.com/profile.php?id=100056090291385&mibextid=ZbWKwL" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khant min" height="30" width="40" /></a>
   
-<a href="kmin01405@gmail.com">
+<a href="mailto:kmin01405@gmail.com">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="khant min" height="30" width="40"/>  
 </a>
 </p>
