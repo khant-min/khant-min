@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Next.js**
 
+- 🤝 I'm looking for help with CSS animations to contribute in my projects
+
 - 💬 Ask me about **React, Node.js**
 
 - 📫 How to reach me **kmin01405@gmail.com**
