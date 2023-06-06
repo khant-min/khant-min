@@ -8,7 +8,7 @@
 
 - 🤝 I'm looking for help with animations
 
-- 🔭 I'm looking for work as a junior developer
+- 🔭 I'm looking for work as a web developer
 
 - 💬 Ask me about **React, Node.js**
 
