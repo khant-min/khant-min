@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **ITPEC**
 
-- 🤝 I'm looking for help with animations
-
-- 🔭 I'm looking for work as a web developer
+- 👨‍💻 All of my projects are available at github.com/khant-min
 
 - 💬 Ask me about **React, Node.js**
 
