@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ITPEC**
 
-- 👨‍💻 All of my projects are available at github.com/khant-min
+- 👨‍💻 All of my projects are available at https://github.com/khant-min
 
 - 💬 Ask me about **React, Node.js**
 
