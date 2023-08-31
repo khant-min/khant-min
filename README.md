@@ -44,8 +44,7 @@
 </p>
 
 <p>
-<!--   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=KhantMin&show_icons=true&theme=cobalt" alt="khant-min" /> -->
-  [![Khant Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=khant-min)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=khant-min&show_icons=true&theme=cobalt" alt="khant-min" />
 </p>
 
 <p>
