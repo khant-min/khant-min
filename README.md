@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/khant-min?tab=repositories
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, OOP**
 
 - 📫 How to reach me **kmin01405@gmail.com**
 
@@ -38,8 +38,14 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> 
   </a>
 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="nodejs" width="40" height="40"/>
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
+
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/184143/java.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -50,17 +56,3 @@
 <p>
   <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khant-min&show_icons=true&locale=en&layout=compact" alt="khant-min" />
 </p>
-<<<<<<< HEAD
-=======
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-  <!-- BLOG-POST-LIST:END -->
-  > > > > > > > 3bee06b91ba3e3aaf959a0c715f47fb43ad610b6
