@@ -50,8 +50,3 @@
 <p>
   <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khant-min&show_icons=true&locale=en&layout=compact" alt="khant-min" />
 </p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
