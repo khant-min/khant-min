@@ -36,7 +36,7 @@
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> 
-  </a> 
+  </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> 
@@ -50,4 +50,3 @@
 <p>
   <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khant-min&show_icons=true&locale=en&layout=compact" alt="khant-min" />
 </p>
-
