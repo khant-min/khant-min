@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/khant-min?tab=repositories
 
-- 💬 Ask me about **React, Node.js**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **kmin01405@gmail.com**
 
