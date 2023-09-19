@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khant-min&label=Profile%20views&color=0e75b6&style=flat" alt="khant-min" /> </p>
 
+- 🔭 I’m currently working on Jdev
+  
+- 🤝 I’m looking to collaborate on MERN stack projects.
+  
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at https://github.com/khant-min?tab=repositories
