@@ -29,26 +29,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p style={{display: 'flex', gap: '100px'}}>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<p align="left">
+  <a href="https://github.com/khant-min">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,go" />
   </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/355038/golang.svg" alt="go" width="40" height="40"/> 
-  </a> 
 </p>
 
 <p>
