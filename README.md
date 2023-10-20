@@ -5,16 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khant-min&label=Profile%20views&color=0e75b6&style=flat" alt="khant-min" /> </p>
 
 - 🔭 I’m currently working on Jdev
-  
-- 🤝 I’m looking to collaborate on MERN stack projects.
-  
-- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at https://github.com/khant-min?tab=repositories
+- 🌱 I’m currently learning **Go, Spring**
 
-- 💬 Ask me about **Java, OOP**
+- - 💬 Ask me about **React, Node**
+  
+- 🤝 I’m looking to collaborate on MERN stack projects
 
 - 📫 How to reach me **kmin01405@gmail.com**
+
+- 👨‍💻 All of my projects are available at https://github.com/khant-min?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 
@@ -30,10 +30,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p style={{display: 'flex', gap: '100px'}}>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   </a>
-
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
@@ -47,7 +43,11 @@
   </a>
 
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/184143/java.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/355038/golang.svg" alt="go" width="40" height="40"/> 
   </a> 
 </p>
 
