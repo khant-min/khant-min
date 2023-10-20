@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Go, Spring**
 
-- - 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, Node**
   
 - 🤝 I’m looking to collaborate on MERN stack projects
 
