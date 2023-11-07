@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Jdev
 
-- 🌱 I’m currently learning **Go, Spring**
+- 🌱 I’m currently learning **Go, Spring, .Net**
 
 - 💬 Ask me about **React, Node**
   
