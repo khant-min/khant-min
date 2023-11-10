@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://github.com/khant-min">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,cs,go" />
   </a>
 </p>
 
