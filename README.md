@@ -27,11 +27,19 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 
 <p align="left">
   <a href="https://github.com/khant-min">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,cs,go" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,cs,go,spring,prisma" />
+  </a>
+</p>
+
+<h3 align="left">Tools:</h3>
+
+<p align="left">
+  <a href="https://github.com/khant-min">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,postman,idea,mysql,postgres" />
   </a>
 </p>
 
