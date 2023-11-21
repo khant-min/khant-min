@@ -6,15 +6,13 @@
 
 - 🔭 I’m currently working on Jdev
 
-- 🌱 I’m currently learning **Go, Spring, .Net**
+- 🌱 I’m currently learning **Spring, .Net**
 
 - 💬 Ask me about **React, Node**
   
 - 🤝 I’m looking to collaborate on MERN stack projects
 
 - 📫 How to reach me **kmin01405@gmail.com**
-
-- 👨‍💻 All of my projects are available at https://github.com/khant-min?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,15 +29,7 @@
 
 <p align="left">
   <a href="https://github.com/khant-min">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,cs,go,spring,prisma" />
-  </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-
-<p align="left">
-  <a href="https://github.com/khant-min">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,postman,idea,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,cs" />
   </a>
 </p>
 
