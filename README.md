@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khant-min&label=Profile%20views&color=0e75b6&style=flat" alt="khant-min" /> </p>
 
-- 🔭 I’m currently working on Jdev
-
 - 🌱 I’m currently learning **Spring, .Net**
 
 - 💬 Ask me about **React, Node**
