@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khant Min 👋</h1>
+<h1 align="center">Hi, I'm Khant Min 😃</h1>
 <h3 align="center">A passionate developer who has a positive attitude towards the world</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 
