@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring, .Net**
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, Node.js**
   
 - 🤝 I’m looking to collaborate on MERN stack projects
 
