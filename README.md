@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khant Min <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30" height="30"/></h1>
+<h1 align="center">Hi, I'm Khant Min Thu <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30" height="30"/></h1>
 <h3 align="center">A Developer from Myanmar</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 
