@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khant Min Thu <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30" height="30"/></h1>
+<!-- <h1 align="center">Hi, I'm Khant Min Thu <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30" height="30"/></h1>
 <h3 align="center">A Developer from Myanmar</h3>
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Computer Science**
 
 - 💬 Ask me about **React, Node.js**
-  
+
 - 🤝 I’m looking to collaborate on MERN stack projects
 
 - 📫 How to reach me **kmin01405@gmail.com**
@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100056090291385&mibextid=ZbWKwL" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khant min" height="30" width="40" /></a>
-  
+
 <a href="mailto:kmin01405@gmail.com">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="khant min" height="30" width="40"/>  
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="khant min" height="30" width="40"/>
 </a>
 </p>
 
@@ -37,4 +37,4 @@
 
 <p>
   <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=khant-min&show_icons=true&locale=en&layout=compact" alt="khant-min" />
-</p>
+</p> -->
